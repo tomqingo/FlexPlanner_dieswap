@@ -31,7 +31,7 @@ If you want to run the case in GSRC
 bash script/run_GSRC.sh
 ~~~
 
-If you want to run the case in OpenROAD (![link](https://drive.google.com/drive/folders/1uyz2zquupWmWXOxJYuMvDn52754ad_Bf?usp=drive_link))
+If you want to run the case in OpenROAD ([link](https://drive.google.com/drive/folders/1uyz2zquupWmWXOxJYuMvDn52754ad_Bf?usp=drive_link))
 ~~~
 bash script/run_openroad.sh
 ~~~
